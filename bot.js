@@ -4,6 +4,7 @@ var JSONItems = [];
 $.getJSON("graveheart.json", function(data) {
   JSONItems = data;
   console.log(JSONItems.songs[0].lyrics);
+  //https://stackoverflow.com/questions/14480345/how-to-get-the-nth-occurrence-in-a-string
 });
 // const Twit = require("twit");
 
