@@ -1,0 +1,1533 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1919829",
+ "description": {
+  "plain": "BLACKFLAGS"
+ },
+ "facebook_name": null,
+ "followers_count": 4,
+ "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+ "id": 1919829,
+ "image_url": "https://images.genius.com/39773bf32eb5804c0f7a8fc016762ecd.1000x1000x1.jpg",
+ "instagram_name": "gravehearted",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "GRAVEHEART",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Graveheart",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 1743,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 9156073,
+  "annotator_login": "gravehearted",
+  "api_path": "/referents/17831462",
+  "classification": "unreviewed",
+  "fragment": "GRAVEHEART",
+  "id": 17831462,
+  "is_description": true,
+  "path": "/17831462/Graveheart/Graveheart",
+  "range": {
+   "content": "GRAVEHEART"
+  },
+  "song_id": null,
+  "url": "https://genius.com/17831462/Graveheart/Graveheart",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1919829",
+   "context": null,
+   "id": 1919829,
+   "image_url": "https://images.genius.com/39773bf32eb5804c0f7a8fc016762ecd.1000x1000x1.jpg",
+   "link_title": "GRAVEHEART",
+   "title": "GRAVEHEART",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Graveheart"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17831462",
+    "body": {
+     "plain": "BLACKFLAGS"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17831462,
+    "pinned": false,
+    "share_url": "https://genius.com/17831462",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/17831462/Graveheart/Graveheart",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/9156073",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4f2f154852807c54ee3cae52227a2ec5",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4f2f154852807c54ee3cae52227a2ec5",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4f2f154852807c54ee3cae52227a2ec5",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4f2f154852807c54ee3cae52227a2ec5",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+       "human_readable_role_for_display": "Verified Artist",
+       "id": 9156073,
+       "iq": 1743,
+       "login": "gravehearted",
+       "name": "GRAVEHEART",
+       "role_for_display": "verified_artist",
+       "url": "https://genius.com/gravehearted",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/9156073",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/4f2f154852807c54ee3cae52227a2ec5",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/4f2f154852807c54ee3cae52227a2ec5",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/4f2f154852807c54ee3cae52227a2ec5",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/4f2f154852807c54ee3cae52227a2ec5",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 9156073,
+  "iq": 1743,
+  "login": "gravehearted",
+  "name": "GRAVEHEART",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/gravehearted",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/4836092",
+   "apple_music_id": "1478485824",
+   "apple_music_player_url": "https://genius.com/songs/4836092/apple_music_player",
+   "description": {
+    "plain": "911 represents complete anarchy, total disregard for authority, and winning by any means. It\u2019s a song about, once you finally make it happen, stunting on everybody who doubted."
+   },
+   "embed_content": "<div id='rg_embed_link_4836092' class='rg_embed_link' data-song-id='4836092'>Read <a href='https://genius.com/Graveheart-911-lyrics'>\u201c911\u201d by GRAVEHEART</a> on Genius</div> <script crossorigin src='//genius.com/songs/4836092/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "911 by\u00a0GRAVEHEART",
+   "header_image_thumbnail_url": "https://images.genius.com/7fc4345d40528f504cad53cce39d3af8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7fc4345d40528f504cad53cce39d3af8.602x602x1.jpg",
+   "id": 4836092,
+   "lyrics_owner_id": 9156073,
+   "lyrics_state": "complete",
+   "path": "/Graveheart-911-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2019-09-01",
+   "release_date_for_display": "September 1, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7fc4345d40528f504cad53cce39d3af8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7fc4345d40528f504cad53cce39d3af8.602x602x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 1,
+    "hot": false
+   },
+   "title": "911",
+   "title_with_featured": "911",
+   "url": "https://genius.com/Graveheart-911-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/573690",
+    "cover_art_url": "https://images.genius.com/e34c7c09ea2c250bbfcb7943584a5bf9.1000x1000x1.jpg",
+    "full_title": "MARIPOSA DE LA MUERTE by GRAVEHEART",
+    "id": 573690,
+    "name": "MARIPOSA DE LA MUERTE",
+    "url": "https://genius.com/albums/Graveheart/Mariposa-de-la-muerte",
+    "artist": {
+     "api_path": "/artists/1919829",
+     "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+     "id": 1919829,
+     "image_url": "https://images.genius.com/39773bf32eb5804c0f7a8fc016762ecd.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "GRAVEHEART",
+     "url": "https://genius.com/artists/Graveheart",
+     "iq": 1743
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9156073,
+    "annotator_login": "gravehearted",
+    "api_path": "/referents/17955007",
+    "classification": "unreviewed",
+    "fragment": "911",
+    "id": 17955007,
+    "is_description": true,
+    "path": "/17955007/Graveheart-911/911",
+    "range": {
+     "content": "911"
+    },
+    "song_id": 4836092,
+    "url": "https://genius.com/17955007/Graveheart-911/911",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4836092",
+     "client_timestamps": {
+      "updated_by_human_at": 1572290829,
+      "lyrics_updated_at": 1567879792
+     },
+     "context": "GRAVEHEART",
+     "id": 4836092,
+     "image_url": "https://images.genius.com/7fc4345d40528f504cad53cce39d3af8.602x602x1.jpg",
+     "link_title": "911 by\u00a0GRAVEHEART",
+     "title": "911",
+     "type": "Song",
+     "url": "https://genius.com/Graveheart-911-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17955007",
+      "body": {
+       "plain": "911 represents complete anarchy, total disregard for authority, and winning by any means. It\u2019s a song about, once you finally make it happen, stunting on everybody who doubted."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17955007,
+      "pinned": false,
+      "share_url": "https://genius.com/17955007",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/17955007/Graveheart-911/911",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9156073",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9156073,
+         "iq": 1743,
+         "login": "gravehearted",
+         "name": "GRAVEHEART",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/gravehearted",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "attribution": "gravehearted",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/gravehearted/graveheart-911"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1919829",
+    "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+    "id": 1919829,
+    "image_url": "https://images.genius.com/39773bf32eb5804c0f7a8fc016762ecd.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "GRAVEHEART",
+    "url": "https://genius.com/artists/Graveheart",
+    "iq": 1743
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/989757",
+     "header_image_url": "https://images.genius.com/e1697ed2f85b3aa7037eb1a7a685a4f4.1000x210x1.jpg",
+     "id": 989757,
+     "image_url": "https://images.genius.com/42b6ba86b607b2b0617aa855ebf72b97.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Taylor",
+     "url": "https://genius.com/artists/Young-taylor"
+    },
+    {
+     "api_path": "/artists/1665101",
+     "header_image_url": "https://images.genius.com/1ec0d8d810a6ba240d8f8be6e0d87126.300x300x1.jpg",
+     "id": 1665101,
+     "image_url": "https://images.genius.com/1ec0d8d810a6ba240d8f8be6e0d87126.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fewtile",
+     "url": "https://genius.com/artists/Fewtile"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/9156073",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/4f2f154852807c54ee3cae52227a2ec5",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/4f2f154852807c54ee3cae52227a2ec5",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/4f2f154852807c54ee3cae52227a2ec5",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/4f2f154852807c54ee3cae52227a2ec5",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 9156073,
+     "iq": 1743,
+     "login": "gravehearted",
+     "name": "GRAVEHEART",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/gravehearted",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/1919829",
+      "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+      "id": 1919829,
+      "image_url": "https://images.genius.com/39773bf32eb5804c0f7a8fc016762ecd.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "GRAVEHEART",
+      "url": "https://genius.com/artists/Graveheart",
+      "iq": 1743
+     },
+     "user": {
+      "api_path": "/users/9156073",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/4f2f154852807c54ee3cae52227a2ec5",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/4f2f154852807c54ee3cae52227a2ec5",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/4f2f154852807c54ee3cae52227a2ec5",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/4f2f154852807c54ee3cae52227a2ec5",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 9156073,
+      "iq": 1743,
+      "login": "gravehearted",
+      "name": "GRAVEHEART",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/gravehearted",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1919828",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1581700792",
+     "id": 1919828,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1581700792",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marc Mijares",
+     "url": "https://genius.com/artists/Marc-mijares"
+    }
+   ],
+   "lyrics": "[Chorus]\n\n911 like it's tragic\n90210, I got that California magic\nWhip a 911 through the traffic\nI just\u2005gotta\u2005stunt for all\u2005the times I never had shit\n911\u2005like it's tragic\n90210, I got that California magic\nWhip a 911 through the traffic\nI just gotta stunt for all the times I never had shit\n\n[Verse 1]\n\nAdventuring, Aventador-in'\nImagine pullin' up in a foreign\nThrough the drive-thru\nEverybody keep staring\nWe don't do McDonald's, man, we only do McLarens\nBop in the middle of my beat\nReclining my seat\nTalking all that shit, I see you declining to meet\nChanging up the climate, what I'm stepping in is heat\nAnd it's definite I'm dripping, got that ice up on the skis\nOnly breaking bread with the ones who broke it with me\nLock, barrel, and stock, and you ain't a broker to me\nNot taking advice from anyone broker than me\nI maneuver through the white like I hit the coca, the leaf\n(Hit the slopes)\nI need diamonds 'round my neck that make me choke\n(Get the boats)\nIt's surprising, all this weight and we still float\n(Let 'em know)\nThat we winning and I'm coming for they throats\nAnd my doors are suicidal like they hangin' from the ropes\n\n[Chorus]\n\n911 like it's tragic\n90210, I got that California magic\nWhip a 911 through the traffic\nI just gotta stunt for all the times I never had shit\n911 like it's tragic\n90210, I got that California magic\nWhip a 911 through the traffic\nI just gotta stunt for all the times I never had shit\n\n[Verse 2]\n\nYeah\nThey movin' weight, movin' bales\nChristian Louboutins in the Batmobile, I feel like Christian Bale\nIt's a different fucking calibre, so I won't ever fail\nGot em hangin' off the banister when I go off the rails\nDiffer cause I'm icy\nY'all be looking mice-y\nFaded off Hey Y'alls, I got that sugar honey iced tea\nShit, plug break down a brick\nPass it off to me\nIt's a party with your bitch (With your bitch)\nYoung, misunderstood, with misappropriated funds\nDots all on your face, you ain't exfoliated once\nBones all on my flag so you know my team lurkin'\nYou might think you safe but a star gon' burst in\n\n[Chorus]\n\n911 like it's tragic\n90210, I got that California magic\nWhip a 911 through the traffic\nI just gotta stunt for all the times I never had shit\n911 like it's tragic\n90210, I got that California magic\nWhip a 911 through the traffic\nI just gotta stunt for all the times I never had shit"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5153024",
+   "apple_music_id": "1492877999",
+   "apple_music_player_url": "https://genius.com/songs/5153024/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5153024' class='rg_embed_link' data-song-id='5153024'>Read <a href='https://genius.com/Graveheart-bling-lyrics'>\u201cBLING\u201d by GRAVEHEART</a> on Genius</div> <script crossorigin src='//genius.com/songs/5153024/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "BLING by\u00a0GRAVEHEART",
+   "header_image_thumbnail_url": "https://images.genius.com/596e169419962a519dfa2dc396fee209.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/596e169419962a519dfa2dc396fee209.1000x1000x1.jpg",
+   "id": 5153024,
+   "lyrics_owner_id": 9156073,
+   "lyrics_state": "complete",
+   "path": "/Graveheart-bling-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2020-01-01",
+   "release_date_for_display": "January 1, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/596e169419962a519dfa2dc396fee209.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/596e169419962a519dfa2dc396fee209.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "BLING",
+   "title_with_featured": "BLING",
+   "url": "https://genius.com/Graveheart-bling-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9156073,
+    "annotator_login": "gravehearted",
+    "api_path": "/referents/18781732",
+    "classification": "needs_exegesis",
+    "fragment": "BLING",
+    "id": 18781732,
+    "is_description": true,
+    "path": "/18781732/Graveheart-bling/Bling",
+    "range": {
+     "content": "BLING"
+    },
+    "song_id": 5153024,
+    "url": "https://genius.com/18781732/Graveheart-bling/Bling",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5153024",
+     "client_timestamps": {
+      "updated_by_human_at": 1578293555,
+      "lyrics_updated_at": 1578293425
+     },
+     "context": "GRAVEHEART",
+     "id": 5153024,
+     "image_url": "https://images.genius.com/596e169419962a519dfa2dc396fee209.1000x1000x1.jpg",
+     "link_title": "BLING by\u00a0GRAVEHEART",
+     "title": "BLING",
+     "type": "Song",
+     "url": "https://genius.com/Graveheart-bling-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18781732",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18781732,
+      "pinned": false,
+      "share_url": "https://genius.com/18781732",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18781732/Graveheart-bling/Bling",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9156073",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9156073,
+         "iq": 1743,
+         "login": "gravehearted",
+         "name": "GRAVEHEART",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/gravehearted",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/1919829",
+    "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+    "id": 1919829,
+    "image_url": "https://images.genius.com/39773bf32eb5804c0f7a8fc016762ecd.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "GRAVEHEART",
+    "url": "https://genius.com/artists/Graveheart",
+    "iq": 1743
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/323230",
+     "header_image_url": "https://images.genius.com/067662cddb2d22cd571d8bba12b410a3.399x399x1.jpg",
+     "id": 323230,
+     "image_url": "https://images.genius.com/067662cddb2d22cd571d8bba12b410a3.399x399x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mega Beats",
+     "url": "https://genius.com/artists/Mega-beats"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1919828",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1581700792",
+     "id": 1919828,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1581700792",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marc Mijares",
+     "url": "https://genius.com/artists/Marc-mijares"
+    }
+   ],
+   "lyrics": "(Chorus)\n\nI want my money\nI want my cars\nI want my things\nI want my cash\nI want my\u2005racks\nI\u2005want some tings\nWhen\u2005I come through, I don't mean\u2005to be rude\nI want my bling\nWhen I come through, I don't mean to be rude\nI want my bling\n\n(Verse 1)\n\nPay me reparations, I'mma smoke\nHood'll never hide you, I'mma smoke you out\nHow I'm separated from all of the broke\nKnow a lot of people wanna know me now\nOnly want it if you fuck with me 'fore they all fuck with me\nI want good marijuana, good company\nDon't switch up on me suddenly, don't deserve that\nFloat, on the keys, like my brodie brought a bird back\nPonder on my life, I want my blessings in possessions\nI'mma get it right, for the money, man I'm destined\nWonder why they hate, stay out of my accounts\nAnd we just did a show, couple grand for the count\nBurning sandalwood if you wondering 'bout the smell\nTelevision flickering, playing Ghost in the Shell\nAin't it funny, rolling deep like Adele?\nAnd what we smoking so damn loud, you could listen to the smell\n\n(Chorus)\n\nI want my money\nI want my cars\nI want my things\nI want my cash\nI want my racks\nI want some tings\nWhen I come through, I don't mean to be rude\nI want my bling\nWhen I come through, I don't mean to be rude\nI want my bling\n\n(Verse 2)\n\nI can feel my power surging like Ibaka\nPolitickin', how we came up off the block, huh?\nNew girl, outspoken like a protest\nGettin' Nikes when I wasn't getting no checks\nWe gotta reiterate, my gang proliferate, grow larger\nDom Perignon, no Honey Brown Lager\nHow we doing business, you would think I went to Sauder\nLeave me with your daughter, I might have her join the roster\nYeah, I'm with Fleet, yeah, smoking like a Rasta\nYeah, I'm with Chi, yeah, we don't do imposter\nWe gon' need a bigger boat just like I met Jaws, huh?\nAll your friends imaginary like you went to Foster\nOG shout, taught me how to reroute\nToo gone off the white, I'm looking Santorini, Greece now\nHot like Charmander but I'm cuttin' like a Scyther\nEast Van Shawty but just know I'll never wife her\n\n(Chorus)\n\nI want my money\nI want my cars\nI want my things\nI want my cash\nI want my racks\nI want some tings\nWhen I come through, I don't mean to be rude\nI want my bling\nWhen I come through, I don't mean to be rude\nI want my bling\n\n(Outro)\n\nYeah, yeah\nLet it sing bitch\nI want the bling bitch\nI won't ever give a bitch a ring\nI won't ever give a bitch a ring\nI just- I want that bling\nI want that bling\nThat bling"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/4978253",
+   "apple_music_id": "1485334195",
+   "apple_music_player_url": "https://genius.com/songs/4978253/apple_music_player",
+   "description": {
+    "plain": "CABBAGE PATCH KIDS is, obviously, about smoking weed. I don\u2019t think anyone else has compared weed to smoking lettuce wraps so I just thought it was a funny way of putting it together. Who would\u2019ve known it would make for one of the hardest songs on the album?"
+   },
+   "embed_content": "<div id='rg_embed_link_4978253' class='rg_embed_link' data-song-id='4978253'>Read <a href='https://genius.com/Graveheart-cabbage-patch-kids-lyrics'>\u201cCABBAGE PATCH KIDS\u201d by GRAVEHEART</a> on Genius</div> <script crossorigin src='//genius.com/songs/4978253/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "CABBAGE PATCH KIDS by\u00a0GRAVEHEART",
+   "header_image_thumbnail_url": "https://images.genius.com/e34c7c09ea2c250bbfcb7943584a5bf9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e34c7c09ea2c250bbfcb7943584a5bf9.1000x1000x1.jpg",
+   "id": 4978253,
+   "lyrics_owner_id": 9156073,
+   "lyrics_state": "complete",
+   "path": "/Graveheart-cabbage-patch-kids-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2019-10-31",
+   "release_date_for_display": "October 31, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e34c7c09ea2c250bbfcb7943584a5bf9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e34c7c09ea2c250bbfcb7943584a5bf9.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 8,
+    "hot": false
+   },
+   "title": "CABBAGE PATCH KIDS",
+   "title_with_featured": "CABBAGE PATCH KIDS",
+   "url": "https://genius.com/Graveheart-cabbage-patch-kids-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/573690",
+    "cover_art_url": "https://images.genius.com/e34c7c09ea2c250bbfcb7943584a5bf9.1000x1000x1.jpg",
+    "full_title": "MARIPOSA DE LA MUERTE by GRAVEHEART",
+    "id": 573690,
+    "name": "MARIPOSA DE LA MUERTE",
+    "url": "https://genius.com/albums/Graveheart/Mariposa-de-la-muerte",
+    "artist": {
+     "api_path": "/artists/1919829",
+     "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+     "id": 1919829,
+     "image_url": "https://images.genius.com/39773bf32eb5804c0f7a8fc016762ecd.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "GRAVEHEART",
+     "url": "https://genius.com/artists/Graveheart",
+     "iq": 1743
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9156073,
+    "annotator_login": "gravehearted",
+    "api_path": "/referents/18328719",
+    "classification": "unreviewed",
+    "fragment": "CABBAGE PATCH KIDS",
+    "id": 18328719,
+    "is_description": true,
+    "path": "/18328719/Graveheart-cabbage-patch-kids/Cabbage-patch-kids",
+    "range": {
+     "content": "CABBAGE PATCH KIDS"
+    },
+    "song_id": 4978253,
+    "url": "https://genius.com/18328719/Graveheart-cabbage-patch-kids/Cabbage-patch-kids",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4978253",
+     "client_timestamps": {
+      "updated_by_human_at": 1572840911,
+      "lyrics_updated_at": 1572840911
+     },
+     "context": "GRAVEHEART",
+     "id": 4978253,
+     "image_url": "https://images.genius.com/e34c7c09ea2c250bbfcb7943584a5bf9.1000x1000x1.jpg",
+     "link_title": "CABBAGE PATCH KIDS by\u00a0GRAVEHEART",
+     "title": "CABBAGE PATCH KIDS",
+     "type": "Song",
+     "url": "https://genius.com/Graveheart-cabbage-patch-kids-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18328719",
+      "body": {
+       "plain": "CABBAGE PATCH KIDS is, obviously, about smoking weed. I don\u2019t think anyone else has compared weed to smoking lettuce wraps so I just thought it was a funny way of putting it together. Who would\u2019ve known it would make for one of the hardest songs on the album?"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18328719,
+      "pinned": false,
+      "share_url": "https://genius.com/18328719",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/18328719/Graveheart-cabbage-patch-kids/Cabbage-patch-kids",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9156073",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4f2f154852807c54ee3cae52227a2ec5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9156073,
+         "iq": 1743,
+         "login": "gravehearted",
+         "name": "GRAVEHEART",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/gravehearted",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [],
+   "primary_artist": {
+    "api_path": "/artists/1919829",
+    "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+    "id": 1919829,
+    "image_url": "https://images.genius.com/39773bf32eb5804c0f7a8fc016762ecd.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "GRAVEHEART",
+    "url": "https://genius.com/artists/Graveheart",
+    "iq": 1743
+   },
+   "producer_artists": [
+    {
+     "api_path": "/artists/1806941",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1581700792",
+     "id": 1806941,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1581700792",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MFZEON",
+     "url": "https://genius.com/artists/Mfzeon"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/9156073",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/4f2f154852807c54ee3cae52227a2ec5",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/4f2f154852807c54ee3cae52227a2ec5",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/4f2f154852807c54ee3cae52227a2ec5",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/4f2f154852807c54ee3cae52227a2ec5",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 9156073,
+     "iq": 1743,
+     "login": "gravehearted",
+     "name": "GRAVEHEART",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/gravehearted",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/1919829",
+      "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+      "id": 1919829,
+      "image_url": "https://images.genius.com/39773bf32eb5804c0f7a8fc016762ecd.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "GRAVEHEART",
+      "url": "https://genius.com/artists/Graveheart",
+      "iq": 1743
+     },
+     "user": {
+      "api_path": "/users/9156073",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/4f2f154852807c54ee3cae52227a2ec5",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/4f2f154852807c54ee3cae52227a2ec5",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/4f2f154852807c54ee3cae52227a2ec5",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/4f2f154852807c54ee3cae52227a2ec5",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/fad610a798494258b96f99bbc3a7dd92.1000x1000x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 9156073,
+      "iq": 1743,
+      "login": "gravehearted",
+      "name": "GRAVEHEART",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/gravehearted",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1919828",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1581700792",
+     "id": 1919828,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1581700792",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marc Mijares",
+     "url": "https://genius.com/artists/Marc-mijares"
+    }
+   ],
+   "lyrics": "(Chorus)\n\nSmoke a lettuce wrap, out the cabbage patch\nKids outfitted in black, murdered out whip, no\u2005cap\nSplit\u2005a woody out\u2005the pack, out the woods and\u2005I'm back\nGot your bitch in my lap, and we never giving dap\n\n(Verse 1)\n\nI made it through the extremities\nAll of my dawgs gon' make it out the cold\nI thought I gave you the remedy\nStill I got people that wanna do road, yeah\nDripping water like it's 'Fina, pour up a drink, only sip on Dasani\nIronic that we out in Fiji, been hallucinating like Salvador Dali\nI might just go off\nGot 'em pissed off\nGot a pistola, let it go off\nRaiding 'em tombs, like I was Croft\nThought I was soft\nFuck with a boss, ay\nGolly gee wilikers Batman, they coming with jokes\nThey wanna kick it like Van Damme, must want all of the smoke\nMan, I'm choked (Man I'm choked)\nEnd of my rope (End of my rope)\nI gotta blow, this I know\nFuck an opp, and the po\nI got rocks, and they pop for the low\nAnd my block never stop smoking dro\nWe just\n\n(Chorus)\n\nSmoke a lettuce wrap, out the cabbage patch\nKids outfitted in black, murdered out whip, no cap\nSplit a woody out the pack, out the woods and I'm back\nGot your bitch in my lap, and we never giving dap\n\n(Verse 2)\n\nDon't wanna murder my enemies\nCatch a body incidentally, though\nMy boys available readily\nBut we got 'em holding steadily though\nWill my confederate better me?\nI hit up Genevieve, she got the blow\nI been so gone off the ketamine\nYou could meet me at the top of the slope\nBag secured, we in Iceland\nStill ain't never left my city\nIt's a hundred people with me\nOnly twenty people with me\nWho be with me on the really?\nWho just really wanna kill me?\nAnd who be tryna make amends?\nCause I don't forget or forgive, and I thought I told muhfuckas that we can't ever be friends\nI'm popping off\nY'all kinda soft\nI want the dough\nLike Papa John's\nI'm really 'bout it\nY'all gotta know\nBut when I show, y'all v\u00e1manos\nI been really with the team, flags up, and we running bags up, God damn, can you imagine that?\nWe not smoking what you smoking though, I might just overdose off of the cabbage patch\n\n(Chorus)\n\nSmoke a lettuce wrap, out the cabbage patch\nKids outfitted in black, murdered out whip, no cap\nSplit a woody out the pack, out the woods and I'm back\nGot your bitch in my lap, and we never giving dap\n\n(Outro)\n\nAnd we never giving dap, yeah\nAnd we not giving dap\nAnd we not giving dap, yeah"
+  }
+ ]
+}
