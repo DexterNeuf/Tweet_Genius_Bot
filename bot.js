@@ -93,7 +93,7 @@ function firstLoop() {
   tweetGenuis();
   setInterval(function () {
     tweetGenuis();
-  }, 10000);
+  }, 3600000);
 }
 
 firstLoop();
