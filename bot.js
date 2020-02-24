@@ -1,15 +1,18 @@
 "use strict";
 const fs = require("fs");
-const rawData = fs.readFileSync("graveheart.json");
+const rawData = fs.readFileSync("graveheart2.json");
 const parseData = JSON.parse(rawData);
-let x = parseData.songs[0].lyrics;
+const Twit = require("twit");
+const config = require("./config");
+const T = new Twit(config);
+
 //grabs the line of lyrics from json to send to tweet
-function getLine() {
+function getLine(curretSong) {
   let count = 0;
-  let position = x.indexOf("\n");
+  let position = curretSong.indexOf("\n");
   while (position !== -1) {
     count++;
-    position = x.indexOf("\n", position + 1);
+    position = curretSong.indexOf("\n", position + 1);
   }
   let amountOfLines = count++;
   // makes sure line grabbed from the json actually exists
@@ -19,41 +22,79 @@ function getLine() {
   }
   return randomNum;
 }
-function getTweet(line) {
-  let position = x.indexOf("\n");
+
+
+function getTweet(line, curretSong) {
+  let position = curretSong.indexOf("\n");
   let count = 0;
   while (position !== -1) {
     count++;
-    position = x.indexOf("\n", position + 1);
+    position = curretSong.indexOf("\n", position + 1);
     if (count === line) {
       break;
     }
   }
-  let tweet = x.substring(position, x.indexOf("\n", position + 1));
+  let tweet = curretSong.substring(position, curretSong.indexOf("\n", position + 1));
   //finds new line if selected doesnt match paramters
   if (
     tweet === " " ||
     tweet.includes("Verse") === true ||
     tweet.includes("Chorus") === true ||
+    tweet.includes("Outro") === true ||
     tweet.length <= 7
   ) {
-    console.log("false");
-  } else {
+    tweetGenuis()
+  }
+  else if (tweet.length <= 45) {
+    while (position !== -1) {
+      count++;
+      position = curretSong.indexOf("\n", position + 1);
+      if (count === line + 1) {
+        break;
+      }
+    }
+    let secondLine = curretSong.substring(position, curretSong.indexOf("\n", position + 1));
+
+    if (secondLine.replace(/\s/g, "") == "") {
+      // console.log("empty LINEEEEEEEE");
+      tweetGenuis();
+    }
+    else {
+      tweet = tweet.concat(secondLine);
+      if (
+        tweet === " " ||
+        tweet.includes("Verse") === true ||
+        tweet.includes("Chorus") === true ||
+        tweet.includes("Outro") === true ||
+        tweet.length <= 7
+      ) {
+        tweetGenuis();
+
+      } else {
+        return tweet;
+      }
+    }
+
+  }
+  else {
     return tweet;
   }
 }
 function tweetGenuis() {
-  let line = getLine();
-  let tweet = getTweet(line);
-  console.log(tweet);
+  let curretSong = parseData.songs[Math.floor(Math.random() * parseData.songs.length)].lyrics;
+  let line = getLine(curretSong);
+  let tweet = getTweet(line, curretSong);
+  if (typeof tweet != "undefined") {
+    T.post("statuses/update", { status: tweet });
+  }
 }
-setInterval(function() {
+
+function firstLoop() {
   tweetGenuis();
-}, 500);
+  setInterval(function () {
+    tweetGenuis();
+  }, 10000);
+}
 
-// const Twit = require("twit");
-
-// const config = require("./config");
-// const T = new Twit(config);
-
+firstLoop();
 // T.post("statuses/update", { status: tweet });
