@@ -45,7 +45,7 @@ function getTweet(line, curretSong) {
     ) {
         tweetGenuis()
     }
-    else if (tweet.length <= 45) {
+    else if (tweet.length <= 52) {
         while (position !== -1) {
             count++;
             position = curretSong.indexOf("\n", position + 1);
@@ -93,7 +93,7 @@ function firstLoop() {
     tweetGenuis();
     setInterval(function () {
         tweetGenuis();
-    }, 3600000);
+    }, 1000 * 60 * 60);
 }
 
 firstLoop();
