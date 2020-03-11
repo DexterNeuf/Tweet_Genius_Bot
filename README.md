@@ -14,13 +14,29 @@ Tweet-Genius-Bot uses some open-source projects to work properly:
 
 ### Installation
 
-Tweet-Genius-Bot requires [Node.js](https://nodejs.org/) v4+ to run.
+Tweet-Genius-Bot requires [Node.js](https://nodejs.org/) v4+ to run. 
 
 Install the dependencies and devDependencies and start the server.
 
 ```sh
 $ npm install 
 $ npm start
+```
+
+A Twitter developer account with a valid app is also required.Once your app request is accepted get the keys and tokens from the appropriately named sub menu, and copy and paste them into their respective fields in the config.js file.
+
+
+```sh
+    consumer_key: 'enter your key',
+    consumer_secret: 'enter your key',
+    access_token: 'enter your token',
+    access_token_secret: 'enter your token'
+```
+
+If you want to use another artist other then the one provided, use the [LyricsGenius](https://github.com/johnwmillr/LyricsGenius) tool to create and new json file and replace it with the default one.
+
+```sh
+const rawData = fs.readFileSync("(your-artist-here).json");
 ```
 
 ### Todos
